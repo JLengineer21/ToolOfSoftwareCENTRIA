@@ -2,4 +2,7 @@ Cola
 Vine
 Chips
 Burger
+<<<<<<< HEAD
 Garlic
+=======
+>>>>>>> refs/remotes/remote_repo/main
