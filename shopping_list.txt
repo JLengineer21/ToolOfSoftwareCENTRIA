@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
+Peper
 Milk
 Water
->>>>>>> 332de7fe072186a300e0063d0275b7ae224a91f7
 Cola
 Vine
 Chips
