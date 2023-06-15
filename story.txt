@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-esrogjdrpogjdrpogjdogjpodgkjdôgkjd^pgodkgpodgjdgojd bla bla bla
-Last sentence modified
-=======
-First sentence Modified
-esrogjdrpogjdrpogjdogjpodgkjdôgkjd^pgodkgpodgjdgojd bla bla bla
->>>>>>> 31158faf4ba36063de8ac459d03b812078e9f61c
