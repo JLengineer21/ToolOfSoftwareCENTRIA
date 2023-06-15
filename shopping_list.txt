@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Peper
+>>>>>>> 3e1f51fe0fb05a9a033564459450e592a28822e2
 Milk
 Water
 Cola
@@ -6,6 +10,9 @@ Chips
 Burger
 Garlic
 Bread
+<<<<<<< HEAD
 Salad
 banana
 Candy
+=======
+>>>>>>> 3e1f51fe0fb05a9a033564459450e592a28822e2
