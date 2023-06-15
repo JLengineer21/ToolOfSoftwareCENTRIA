@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-First sentence Modified
 esrogjdrpogjdrpogjdogjpodgkjdôgkjd^pgodkgpodgjdgojd bla bla bla
-Last sentence Modified
-=======
-First sentence Modified
-esrogjdrpogjdrpogjdogjpodgkjdôgkjd^pgodkgpodgjdgojd bla bla bla
-Last sentence Modified
->>>>>>> refs/remotes/remote_repo/main
+Last sentence modified
