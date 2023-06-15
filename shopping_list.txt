@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 Cola
 Vine
 Chips
 Burger
-=======
-Sugar
-Water
-Egg
-Milk
->>>>>>> 4ae1b100e426dfb5a78704cbf75a51c248f47853
